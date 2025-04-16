@@ -1,4 +1,4 @@
-package default_method__and__static_method;
+package com.default_method__and__static_method;
 
 public interface Right {
 	default void m1() {

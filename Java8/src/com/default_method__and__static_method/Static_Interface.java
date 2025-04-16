@@ -1,4 +1,4 @@
-package default_method__and__static_method;
+package com.default_method__and__static_method;
 
 public interface Static_Interface {
 	public static void m1() {

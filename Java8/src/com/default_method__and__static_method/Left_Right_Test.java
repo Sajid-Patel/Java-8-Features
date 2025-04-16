@@ -1,4 +1,4 @@
-package default_method__and__static_method;
+package com.default_method__and__static_method;
 
 public class Left_Right_Test implements Left, Right {
 
